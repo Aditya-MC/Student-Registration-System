@@ -30,7 +30,7 @@ The system allows users to register students, view all records, edit, and delete
 
 ## 🖥️ Live Preview
 
-> 
+> https://aditya-mc.github.io/Student-Registration-System/
 
 ## 📌 How to Use
 
